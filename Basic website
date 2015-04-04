@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+<style>
+
+input[type="submit"] 
+{
+background: limegreen;
+color: black;
+}
+  input {
+      padding: 12px;
+        border: 0;
+        font-size: 18px;
+    }
+    body 
+        p {
+            font-size: 24px;
+    text-align: center;
+background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAA1BMVEUAAIBKwr76AAAASElEQVR4nO3BgQAAAADDoPlTX+AIVQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwDcaiAAFXD1ujAAAAAElFTkSuQmCC");
+color: white;
+font-family: Helvetica;
+background-size: cover;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+</style>
+</head>
